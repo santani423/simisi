@@ -9,7 +9,7 @@
             <div class="attr-nav light">
                 <ul>
                     <li class="button">
-                        <a href="#">Contact</a>
+                        <a href="#">Contact2</a>
                     </li>
                 </ul>
             </div>
