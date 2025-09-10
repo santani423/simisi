@@ -9,7 +9,7 @@
     <meta name="description" content="Simas">
 
     <!-- ========== Page Title ========== -->
-    <title>Simas</title>
+    <title>SIMISI</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="{{ asset('source/assets/img/logo.jpg') }}" type="image/x-icon">
