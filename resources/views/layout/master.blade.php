@@ -6,13 +6,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Sasoft - Software Landing Page">
+    <meta name="description" content="Simas">
 
     <!-- ========== Page Title ========== -->
-    <title>Sasoft - Software Landing Page</title>
+    <title>Simas</title>
 
     <!-- ========== Favicon Icon ========== -->
-    <link rel="shortcut icon" href="{{ asset('source/assets/img/favicon.png') }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ asset('source/assets/img/logo.jpg') }}" type="image/x-icon">
 
     <!-- ========== Start Stylesheet ========== -->
     <link href="{{ asset('source/assets/css/bootstrap.min.css') }}" rel="stylesheet" />
@@ -35,6 +35,7 @@
       <script src="{{ asset('source/assets/js/html5/html5shiv.min.js') }}') }}"></script>
       <script src="{{ asset('source/assets/js/html5/respond.min.js') }}') }}"></script>
     <![endif]-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- ========== Google Fonts ========== -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap"
@@ -77,20 +78,6 @@
     ============================================= -->
 
     <!-- End Banner -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
