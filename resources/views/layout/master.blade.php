@@ -42,6 +42,7 @@
         rel="stylesheet">
     @yield('styles')
     <!-- Matomo -->
+    <!-- Matomo -->
     <script>
         var _paq = window._paq = window._paq || [];
         /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
@@ -59,6 +60,7 @@
             s.parentNode.insertBefore(g, s);
         })();
     </script>
+    <!-- End Matomo Code -->
     <!-- End Matomo Code -->
 
 </head>
